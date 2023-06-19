@@ -1,5 +1,6 @@
+import fs from 'fs/promises';
 const copy = async () => {
-    // Write your code here 
+
 };
 
 await copy();
